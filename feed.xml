@@ -3,7 +3,7 @@
     <title>jelena.smiljanic.com</title>
     <link href="https://jelenasm.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://jelenasm.github.io/gh-pages" />
-    <updated>2019-11-14T00:12:48+01:00</updated>
+    <updated>2019-11-14T00:29:05+01:00</updated>
     <author>
         <name>Jelena Smiljanic</name>
     </author>
@@ -52,7 +52,7 @@
         <link href="https://jelenasm.github.io/gh-pages/visual-abstract.html"/>
         <id>https://jelenasm.github.io/gh-pages/visual-abstract.html</id>
 
-        <updated>2019-11-14T00:12:34+01:00</updated>
+        <updated>2019-11-14T00:28:45+01:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -60,7 +60,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://jelenasm.github.io/gh-pages/media/posts/8/visAbstract.png" alt="" width="2126" height="1337"> </p>
+                <p><img class="post__image" src="https://jelenasm.github.io/gh-pages/media/posts/8/visAbstract.png" alt="" width="5200" height="3271"> </p>
             ]]>
         </content>
     </entry>
