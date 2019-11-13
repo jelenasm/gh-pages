@@ -40,14 +40,14 @@
             "url": "https://jelenasm.github.io/gh-pages/visual-abstract.html",
             "title": "Visual abstract",
             "summary": " ",
-            "content_html": "<table>\n<tbody>\n<tr>\n<td><img class=\"post__image\" src=\"https://jelenasm.github.io/gh-pages/media/posts/8/fig1-1.png\" alt=\"\" width=\"1281\" height=\"645\"></td>\n</tr>\n<tr>\n<td><img class=\"post__image\" src=\"https://jelenasm.github.io/gh-pages/media/posts/8/fig2-1.png\" alt=\"\" width=\"1281\" height=\"645\"></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "content_html": "<p><img class=\"post__image\" src=\"https://jelenasm.github.io/gh-pages/media/posts/8/visualisation.png\" alt=\"\" width=\"1050\" height=\"773\"> </p>",
             "author": {
                 "name": "Jelena Smiljanic"
             },
             "tags": [
             ],
             "date_published": "2019-11-07T13:35:13+01:00",
-            "date_modified": "2019-11-08T02:27:58+01:00"
+            "date_modified": "2019-11-13T21:53:22+01:00"
         },
         {
             "id": "https://jelenasm.github.io/gh-pages/home-2.html",
